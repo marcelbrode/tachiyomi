@@ -280,7 +280,7 @@
     <string name="ext_trust">Vertrauen</string>
     <string name="ext_untrusted">Nicht vertrauenswürdig</string>
     <string name="untrusted_extension">Nicht vertrauenswürdige Erweiterung</string>
-    <string name="pref_double_tap_anim_speed">Doppeltipp-Animationsgeschwindigkeit</string>
+    <string name="pref_double_tap_anim_speed">Animationsgeschwindigkeit beim Doppeltippen</string>
     <string name="custom_download">Benutzerdefinierte Anzahl herunterladen</string>
     <string name="migration_dialog_what_to_include">Wähle zu beinhaltende Daten</string>
     <string name="pager_viewer">Seiten</string>
@@ -300,7 +300,7 @@
     <string name="transition_pages_loading">Lade Seiten…</string>
     <string name="transition_pages_error">Seiten konnten nicht geladen werden: %1$s</string>
     <string name="action_open_in_web_view">In WebView öffnen</string>
-    <string name="pref_true_color">32-Bit Farben</string>
+    <string name="pref_true_color">32-Bit-Farben</string>
     <string name="pref_skip_read_chapters">Überspringe gelesene Kapitel</string>
     <string name="pref_read_with_long_tap">Bei langem Antippen anzeigen</string>
     <string name="filter_mode_overlay">Überlagerung</string>
@@ -475,7 +475,7 @@
     </plurals>
     <string name="requires_app_restart">Erfordert einen Neustart der Anwendung, um wirksam zu werden</string>
     <string name="label_network">Netzwerk</string>
-    <string name="pref_read_with_tapping_inverted">Tippzonen invertieren</string>
+    <string name="pref_read_with_tapping_inverted">Tippzonen umkehren</string>
     <string name="tapping_inverted_both">Beide</string>
     <string name="tapping_inverted_vertical">Vertikal</string>
     <string name="tapping_inverted_horizontal">Horizontal</string>
@@ -550,7 +550,7 @@
     <string name="right_and_left_nav">Rechts und Links</string>
     <string name="pref_dual_page_split">Doppelseiten aufteilen</string>
     <string name="pref_dual_page_invert_summary">Falls die Platzierung der aufgeteilten Doppelseite nicht mit der Leserichtung übereinstimmt</string>
-    <string name="pref_dual_page_invert">Doppelseiten-Platzierung invertieren</string>
+    <string name="pref_dual_page_invert">Doppelseiten-Platzierung umkehren</string>
     <string name="backup_restore_content_full">Die Daten der Sicherungsdatei werden wiederhergestellt.
 \n
 \nDu musst jegliche fehlende Erweiterungen installieren und dich anschließend bei den Tracking-Anbietern einloggen, um sie zu benutzen.</string>
